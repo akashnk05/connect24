@@ -1,4 +1,4 @@
 # connect24
 This is something in a while.
 <br>
-Author- Akash Nayak
+Author- Akash k Nayak
